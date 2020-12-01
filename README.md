@@ -1,0 +1,1 @@
+Hello! Welcome to my Technical Documentation Page, a Responsive Web Design Project with freeCodeCamp.org!
