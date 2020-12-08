@@ -30,8 +30,8 @@ opacity: 0.75;
 
 #background_right {
     position: absolute;
-    width: 117%;
-    height: 117%;
+    width: 100%;
+    height: 100%;
 
     left: 300px;
     top: 798px;
@@ -41,23 +41,7 @@ opacity: 0.75;
 .background_right_stretch {
     width: 75%;
     height: auto;
-    opacity: 0.30;
-}
-
-#background_more {
-    position: absolute;
-    width: 117%;
-    height: 117%;
-
-    left: 300px;
-    top: 1510px;
-    z-index: -1;
-}
-
-.background_more_stretch {
-    width: 75%;
-    height: auto;
-    opacity: 0.30;
+    opacity: 0.50;
 }
 
 .header_text {
@@ -98,7 +82,7 @@ opacity: 0.75;
     word-spacing: 2px;
     letter-spacing: 2px;
 
-    padding-top: 700px;
+    padding-top: 800px;
     padding-left: 850px;
 
     opacity: 0.60;
