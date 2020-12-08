@@ -99,8 +99,19 @@ opacity: 0.75;
 
     color: black;
     background-color: white;
-    padding: 75px 0px;
+    padding: 45px 0px;
     z-index: 3;
+}
+
+#navbar header {
+    color: black;
+    margin: 0px;
+    top: 0px;
+    padding-top: 0px;
+    text-align: center;
+    font-size: 1.8em;
+    letter-spacing: 3px;
+    color: rgb(80, 80, 80);
 }
 
 #navbar li {
@@ -227,4 +238,17 @@ section header{
         top: 385px;
         z-index: -1;
     }
+    }
+    footer {
+        bottom: 0;
+        left: 0;
+        text-align: center;
+        width: 100%;
+        z-index: 2;
+        padding-top: 2555px;
+    }
+
+    footer a{
+        color: white;
+        opacity: 0.5;
     }
